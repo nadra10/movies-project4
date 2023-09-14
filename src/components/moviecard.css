@@ -1,0 +1,31 @@
+
+
+.movie-container {
+    max-width: 350px;
+    background-color: #edfbfa;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px;
+    border: rgb(197, 195, 195) solid 1px;
+    text-align: center;
+
+  }
+  
+  .movie-container h2 {
+    margin-bottom: 10px;
+  }
+  
+  .movie-container p {
+   
+    margin-bottom: 10px;
+  }
+  
+  .movie-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  
